@@ -1,0 +1,13 @@
+@import 'variables';
+
+body {
+  background: $mainColor;
+  color: #fff;
+  #circle {
+    background: $mainColor;
+    width: 100px;
+    height: 100px;
+    transform: rotate(30deg);
+  }
+}
+
